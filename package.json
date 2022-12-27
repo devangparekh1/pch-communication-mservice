@@ -1,0 +1,25 @@
+{
+  "name": "pch-communication-service",
+  "version": "1.0.0",
+  "description": "The microservice for the PCH Mail and Chat modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devangparekh1/pch-communication-mservice.git"
+  },
+  "keywords": [
+    "Nylas",
+    "Matrix",
+    "Chat",
+    "Mail"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devangparekh1/pch-communication-mservice/issues"
+  },
+  "homepage": "https://github.com/devangparekh1/pch-communication-mservice#readme"
+}
